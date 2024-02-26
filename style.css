@@ -22,5 +22,8 @@ header {
 }
 .navigation a {
     color:antiquewhite;
+    text-decoration: none;
+    padding: 10px;
+    display:inline-block;
 }
 
