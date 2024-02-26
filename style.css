@@ -32,3 +32,11 @@ header {
     color:brown;
     background-color: antiquewhite;
 }
+
+.banner {
+    min-height: 50vh;
+    background-image: url("pexels-felix-mittermeier-1205301\ \(1\).jpg");
+    color:antiquewhite;
+    background-size: cover;
+    background-position: center center;
+}
